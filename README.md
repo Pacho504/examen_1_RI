@@ -1,4 +1,3 @@
-# IR System - Embeddings Comparison
 
 Sistema de recuperación de información que compara dos modelos de embeddings semánticos en un corpus de 5000 reseñas de películas (Rotten Tomatoes).
 
